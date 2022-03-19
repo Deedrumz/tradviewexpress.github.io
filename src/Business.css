@@ -1,0 +1,16 @@
+/* MOBILE QUERY FOR 320 STARTS */
+@media (min-width: 320px){
+    #sub{
+        width: 80%;
+        border-radius: 8px;
+        height: 35px;
+        background-color: #7C20BF;
+        color: #FFFFFF;
+    }
+    .movesub{
+        padding-top: 10px;
+    }
+    
+    
+    
+    }

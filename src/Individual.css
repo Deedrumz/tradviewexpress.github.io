@@ -1,0 +1,222 @@
+/* MOBILE QUERY FOR 320 STARTS */
+@media (min-width: 320px){
+    /* *{
+        overflow: hidden;
+    } */
+.allindividual{
+    background-color: rgb(98, 187, 214);
+    height: 550px;
+    width: 90%;
+    border-radius: 2%;
+    padding-top: 30px;
+    box-shadow: 0px 2px 3px #000000;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.moveallindividual{
+    padding-left: 30px;
+    position: relative;
+    bottom: 30px;
+}
+#sui{
+    width: 80%;
+    border-radius: 8px;
+    height: 35px;
+    background-color: #7C20BF;
+    color: #FFFFFF;
+}
+.movesui{
+    padding-top: 10px;
+}
+
+.inputi{
+    width: 80%;
+    border-radius: 8px;
+    height: 35px;
+    border-style: none;
+    border: 0.5px solid #E4E4E4;
+    margin-top: 15px;
+    outline: none;
+}
+.iblinkall{
+    position: relative;
+    left: 5px;
+    width: 210px;
+     margin: auto;
+     text-align: center;
+     display: flex;
+     border-radius: 50px;
+     background-color: #E4E4E4;
+    }
+    .linksib{
+       width: 105px;
+       border-radius: 50px;
+        border-style: none;
+        background-color: #E4E4E4;
+    }
+    .linksactiveib{
+        background-color: white;
+    }
+
+    .byclick{
+        text-align: left;
+        width: 99%;
+        padding-left: 30px;
+        padding-top: 10px;
+    }
+    .tnc{
+        color: #7C20BF;
+    }
+.allhave{
+    width: 90%;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 2px;
+}
+.ch{
+    color: #7C20BF;
+}
+
+
+
+}
+
+
+/* MOBILE QUERY FOR 375 STARTS */
+@media (min-width: 375px){
+
+.moveallindividual{
+    padding-left: 40px;
+}
+.iblinkall{
+    width: 240px;
+}
+.linksib{
+    width: 120px;
+}
+
+}
+
+/* MOBILE QUERY FOR 400  STARTS */
+@media (min-width: 400px){
+
+    .iblinkall{
+        width: 260px;
+    }
+    .linksib{
+        width: 130px;
+    }
+    
+    }
+
+    /* MOBILE QUERY FOR 600  STARTS */
+@media (min-width: 600px){
+
+    .iblinkall{
+        width: 400px;
+    }
+    .linksib{
+        width: 200px;
+    }
+    .byclick{
+        padding-left: 50px;
+    }
+.allhave{
+    text-align: center;
+    padding-left: 50px;
+}
+
+
+
+    }
+
+
+        /* MOBILE QUERY FOR 768  STARTS */
+@media (min-width: 768px){
+
+    .iblinkall{
+        width: 510px;
+    }
+    .linksib{
+        width: 255px;
+    }
+    .byclick{
+        width: 70%;
+        padding-left: 65px;
+    }
+
+
+
+
+    }
+
+            /* MOBILE QUERY FOR 800  STARTS */
+@media (min-width: 800px){
+
+    .iblinkall{
+        width: 530px;
+    }
+    .linksib{
+        width: 265px;
+    }
+    .byclick{
+        padding-left: 70px;
+    }
+
+
+
+
+    }
+
+                /* MOBILE QUERY FOR 1025  STARTS */
+@media (min-width: 1025px){
+    .allindividual{
+        width: 50%;
+    }
+    .moveallindividual{
+        position: relative;
+        left: 250px;
+    }
+
+    .iblinkall{
+        width: 390px;
+    }
+    .linksib{
+        width: 195px;
+    }
+    .byclick{
+        width: 90%;
+        padding-left: 50px;
+    }
+
+
+
+
+    }
+
+                    /* MOBILE QUERY FOR 1285  STARTS */
+@media (min-width: 1285px){
+    .allindividual{
+        width: 40%;
+    }
+
+    .moveallindividual{
+        position: relative;
+        left: 430px;
+    }
+
+    .iblinkall{
+        width: 480px;
+    }
+    .linksib{
+        width: 240px;
+    }
+    .byclick{
+        width: 80%;
+        padding-left: 65px;
+    }
+
+
+
+
+    }

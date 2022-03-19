@@ -1,0 +1,64 @@
+@media (min-width:320px){
+
+.navdeskall{
+    visibility: hidden;
+}
+.navall{
+     background: transparent linear-gradient(124deg, #7C1FBF 0%, #470A73 100%);
+ }
+
+#login1{
+height: 40px;
+color: #7C1FBF;
+border-radius: 4px;
+opacity: 1;
+}
+#movelogin1{
+    padding-bottom: 10px;
+}
+#navlink{
+    color: whitesmoke;
+}
+
+}
+
+/* MOBILE QUERY FOR 1025 STARTS */
+@media (min-width: 1025px){
+.movegt{
+    margin-left: 300px;
+}
+#login1{
+    width: 150px;
+}
+#movelogin1{
+   position: relative;
+   left: 280px;
+}
+.gt{
+    height: 40px;
+}
+#navlink{
+    position: relative;
+    left: 250px;
+}
+
+
+
+}
+
+/* MOBILE QUERY FOR 1285 STARTS */
+@media (min-width: 1285px){
+    .movegt{
+        margin-left: 680px;
+    }
+    #movelogin1{
+        position: relative;
+        left: 670px;
+     }
+     #navlink{
+        position: relative;
+        left: 600px;
+    }
+
+
+}

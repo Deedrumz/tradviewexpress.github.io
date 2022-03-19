@@ -1,0 +1,88 @@
+@media (min-width:320px){
+    .footermobile{
+        background-color: #7C20BF;
+        position: relative;
+        bottom: 50px;
+        height: 250px;
+    }
+    .footlink{
+        display: grid;
+        padding-top: 20px;
+        line-height: 30px;
+    }
+    #plccl{
+        text-decoration: none;
+        color: whitesmoke;
+    }
+    #plccl:hover{
+        color: #FF748E;
+    }
+    
+    #copyright{
+        padding-bottom: 20px;
+        width: 80%;
+    }
+.allcopyright{
+    background-color: #F2F2F2;
+}
+
+}
+
+/* MOBILE QUERY FOR 600 STARTS */
+@media (min-width: 600px){
+#copyright{
+    width: 50%;
+}
+
+
+
+
+}
+
+/* MOBILE QUERY FOR 1025 STARTS */
+@media (min-width: 1025px){
+#copyright{
+    width: 40%;
+    padding-left: 50px;
+}
+.footerdesk{
+    padding-bottom: 20px;
+}
+.footerdesk p{
+    font-weight: 300;
+}
+.productsf{
+    text-align: left;
+    padding-left: 20px;
+}
+.learnf{
+    text-align: left;
+}
+.contactf{
+    text-align: left;
+}
+.companyf{
+    text-align: left;
+}
+.legalf{
+    text-align: left;
+    padding-right: 20px;
+}
+.ttwf{
+    margin-right: 30px;
+}
+
+
+}
+
+/* MOBILE QUERY FOR 1285 STARTS */
+@media (min-width: 1285px){
+    #copyright{
+        width: 30%;
+        padding-left: 50px;
+    }
+    
+    
+    
+    
+    }

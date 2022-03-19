@@ -1,0 +1,146 @@
+/* MOBILE QUERY FOR 320 STARTS */
+@media (min-width: 320px){
+    .alllogin{
+        background-color: rgb(98, 187, 214);
+        height: 400px;
+        width: 90%;
+        border-radius: 2%;
+        padding-top: 30px;
+        box-shadow: 0px 2px 3px #000000;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    .movealllogin{
+        padding-left: 30px;
+        position: relative;
+        bottom: 30px;
+    }
+    .inputl{
+        width: 80%;
+        border-radius: 8px;
+        height: 35px;
+        border-style: none;
+        border: 0.3px solid #E4E4E4;
+        margin-top: 15px;
+        outline: none;
+    }
+    .assrp{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .ass{
+        margin-right: 5px;
+    }
+    .rp{
+        padding-top: 10px;
+    }
+    .fp{
+        text-align: center;
+        color: #7C20BF;
+    }
+    #logl{
+        width: 80%;
+        border-radius: 8px;
+        height: 35px;
+        background-color: #7C20BF;
+        color: #FFFFFF;
+    }
+    .movelogl{
+        padding-top: 10px;
+    }
+.newuserl{
+    text-align: center;
+    padding-top: 15px;
+}
+
+}
+
+/* MOBILE QUERY FOR 600 STARTS */
+@media (min-width: 600px){
+.alllogin{
+    width: 80%;
+}
+.movealllogin{
+    padding-left: 100px;
+    position: relative;
+}
+
+
+
+}
+
+/* MOBILE QUERY FOR 768 STARTS */
+@media (min-width: 768px){
+    .alllogin{
+        width: 70%;
+        height: 500px;
+        padding-top: 50px;
+    }
+    .movealllogin{
+        padding-left: 180px;
+        position: relative;
+    }
+    .alllinputl{
+        padding-top: 15px;
+    }
+    .inputl{
+        margin-top: 30px;
+    }
+.movelogl{
+    padding-top: 30px;
+}
+
+
+
+    
+    }
+
+
+    /* MOBILE QUERY FOR 1025 STARTS */
+@media (min-width: 1025px){
+    .alllogin{
+        width: 70%;
+        height: 550px;
+        padding-top: 50px;
+    }
+    .movealllogin{
+        padding-left: 300px;
+        position: relative;
+    }
+.movelogl{
+    padding-top: 30px;
+}
+.assrpfp{
+    display: flex;
+    justify-content: space-between;
+}
+.assrp{
+    padding-left: 50px;
+}
+.fp{
+    padding-right: 55px;
+    padding-top: 10px;
+}
+#logl{
+    height: 45px;
+}
+.movelogl{
+    padding-top: 70px;
+}
+    
+    }
+
+        /* MOBILE QUERY FOR 1285 STARTS */
+@media (min-width: 1285px){
+    .alllogin{
+        width: 55%;
+    }
+    .movealllogin{
+        padding-left: 500px;
+        position: relative;
+    }
+
+    
+    }

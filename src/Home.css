@@ -1,0 +1,1144 @@
+@media (min-width: 320px){
+    .sec1{
+        background-color: #7C1FBF;
+        position: relative;
+        bottom: 70px;
+        height: 400px;
+        text-align: left;
+        padding-top: 50px;
+        color: whitesmoke;
+        /* padding-left: 20px; */
+        
+    }
+    .seccontent1{
+        padding-left: 10px;
+    }
+    .sec1 h2{
+        font-size: 30px;
+    }
+    .sec1 p{
+        font-size: 15px;
+    }
+    .appgoo{
+        display: flex;
+        padding-top: 20px;
+    }
+    #btnag{
+        margin-right: 5px;
+    }
+    #gt2{
+        background-color: #FFFFFF;
+        color: #7C1FBF;
+    }
+    
+    /* SECOND SECTION */
+    .datafetch{
+        background-color: #F7F7FA;
+        position: relative;
+        bottom: 70px;
+    }
+    .bit{
+        border: 1px solid #E6E6E6;
+        height: 80px;
+       }
+    
+       #symna{
+           margin-right: 5px;
+       }
+    
+       /* THIRD SECTION */
+       .deskcarousel{
+           display: none;
+       }
+       #why{
+           width: 90%;
+       }
+       .easymode{
+           background-color: #FFFFFF;
+           height: 350px;
+           width: 95%;
+           text-align: center;
+           align-items: center;
+           border-radius: 8px;
+       }
+       .moveeasymode{
+                position: relative;
+                left: 8px;
+       }
+       #pic1{
+           width: 50%;
+           padding-top: 35px;
+       }
+    
+       .finfree{
+        background-color: #FFFFFF;
+        height: 350px;
+        width: 95%;
+        text-align: center;
+        align-items: center;
+        border-radius: 8px;
+    }
+    .movefinfree{
+             position: relative;
+             left: 8px;
+    }
+       #pic2{
+        width: 50%;
+        padding-top: 35px;
+    }
+    
+    .inv{
+        background-color: #FFFFFF;
+        height: 350px;
+        width: 95%;
+        text-align: center;
+        align-items: center;
+        border-radius: 8px;
+    }
+    .moveinv{
+             position: relative;
+             left: 8px;
+    }
+    .section3{
+        text-align: center;
+        background-color: #F2F2F2;
+        position: relative;
+        bottom: 50px;
+        height: 1750px;
+        overflow: hidden;
+    }
+    .section3 h5{
+        color: red;
+        padding-top: 15px;
+    }
+    
+    #lmore{
+        background-color: #FFFFFF;
+        color: #7C1FBF;
+        outline: 1px solid #7c1fbf;
+    }
+    .movelm{
+        padding-top: 15px;
+        position: relative;
+        left: 100px;
+        width: 150px;
+    }
+    
+    /* BUY AND SELL CRYPTO IN 3 EASY STEPS */
+    .buysell{
+        padding-top: 50px;
+    }
+    .color{
+        padding: 4px 4px 4px 4px;
+        background-color: #7C20BF;
+        width: 39px;
+        height: 39px;
+        border-radius: 4px;
+        opacity: 1;
+        position: relative;
+        box-shadow: 5px 5px 5px 5px #c696e9;
+        color: white;
+    }
+    .movecolor{
+        position: relative;
+        overflow: hidden;
+        left: 130px;
+        padding-top: 20px;
+    }
+    .freeacc{
+        padding-top: 15px;
+    }
+    
+    #pic3{
+        width: 50%;
+    }
+    .depo{
+        padding-top: 15px;
+    }
+    .bsc{
+        padding-top: 15px;
+    }
+    
+    /* SECTION 4 STARTS HERE */
+    .section4{
+        background-color: #c696e9;
+        position: relative;
+        bottom: 50px;
+        height: 300px;
+    }
+    #gt4{
+        background-color:   #7C1FBF;
+        color: #FFFFFF;
+        outline: 1px solid #7c1fbf;
+    }
+    .movegt4{
+        padding-top: 15px;
+        position: relative;
+        left: 100px;
+        width: 150px;
+    }
+    #ag4{
+        padding-top: 20px;
+        margin-right: 5px;
+    }
+    #ready4{
+        padding-top: 20px;
+    }
+    
+    /* CUSTOMER REVIEW SECTION */
+    .cusreview{
+        background-color: #F2F2F2;
+        position: relative;
+        bottom: 50px;
+        height: 900px;
+        overflow: hidden;
+    }
+    #cr{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    /* first comment */
+    #union{
+        width: 80%;
+    }
+    #jos{
+        width: 15%;
+        border-radius: 100%;
+    }
+    #iretinig{
+        font-weight: bold;
+    }
+    #comment1{
+        position: relative;
+        bottom: 130px;
+        color: whitesmoke;
+        width: 80%;
+        left: 30px;
+        font-weight: 200;
+    }
+    .josireti{
+        position: relative;
+        bottom: 110px;
+        left: -80px;
+    }
+    .moveunioncom2{
+        position: relative;
+        bottom: 100px;
+    }
+    /* second comment */
+     #union2{
+        width: 80%;
+    }
+    #pet{
+        width: 15%;
+        border-radius: 100%;
+    }
+    #comment2{
+        position: relative;
+        bottom: 130px;
+        color: whitesmoke;
+        width: 75%;
+        left: 40px;
+        font-weight: 200;
+    }
+    .petpet{
+        position: relative;
+        bottom: 80px;
+        left: -80px;
+    }
+    #petusa{
+        font-weight: bold;
+    }
+    .secondcomment{
+        position: relative;
+        bottom: 80px;
+    } 
+    
+    /* third comment */
+    #union3{
+        width: 80%;
+    }
+    #ril{
+        width: 15%;
+        border-radius: 100%;
+    }
+    #comment3{
+        position: relative;
+        bottom: 100px;
+        color: whitesmoke;
+        width: 80%;
+        left: 30px;
+        font-weight: 200;
+    }
+    .moveunioncom3{
+        position: relative;
+        bottom: 150px;
+    }
+    .rilril{
+        position: relative;
+        bottom: 80px;
+        left: -80px;;
+    }
+    #rilnig{
+        font-weight: bold;
+    }
+    .thirdcomment{
+        position: relative;
+        bottom: 120px;
+    }
+    .footerdesk{
+        display: none;
+    }
+    }
+    
+    /* MOBILE QUERY FOR 375 STARTS */
+    @media (min-width: 375px){
+    #why{
+        width: 95%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .movelm{
+        position: relative;
+        left: 140px;
+    }
+    
+    .movecolor{
+        position: relative;
+        left: 160px;
+    }
+    #choose{
+    width: 99%;
+    }
+    #buycoin{
+        width: 95%;
+        padding-left: 10px;
+     }
+    #ready4{
+        width: 90%;
+    }
+    .movegt4{
+        position: relative;
+        left: 120px;
+    }
+
+     /* CUSTOMER REVIEW SECTION */
+    .cusreview{
+        height: 1000px;
+    }
+    /* first comment */
+    .josireti{
+        position: relative;
+        bottom: 85px;
+        left: -100px;
+    }
+    .moveunioncom2{
+        position: relative;
+        bottom: 70px;
+    }
+    /* second comment */
+     #union2{
+        width: 80%;
+    }
+    #pet{
+        width: 15%;
+    }
+    .petpet{
+        position: relative;
+        bottom: 60px;
+        left: -100px;
+    }
+    
+    /* third comment */
+    #ril{
+        width: 15%;
+    }
+    #comment3{
+        position: relative;
+        bottom: 100px;
+        color: whitesmoke;
+        width: 70%;
+        left: 50px;
+        bottom: 130px;
+    }
+    .moveunioncom3{
+        position: relative;
+        bottom: 110px;
+    }
+    .rilril{
+        position: relative;
+        bottom: 85px;
+        left: -100px;;
+    }
+
+ 
+    
+    
+    }
+    
+    /* MOBILE QUERY FOR 400 STARTS */
+    @media (min-width: 400px){
+        .movecolor{
+            position: relative;
+            left: 180px;
+        }
+        .movegt4{
+            position: relative;
+            left: 140px;
+        }
+          /* CUSTOMER REVIEW SECTION */
+    .cusreview{
+        height: 1000px;
+    }
+    /* first comment */
+    #comment1{
+        position: relative;
+        left: 40px;
+    }
+    .josireti{
+        position: relative;
+        bottom: 85px;
+        left: -100px;
+    }
+    .moveunioncom2{
+        position: relative;
+        bottom: 70px;
+    }
+    /* second comment */
+     #union2{
+        width: 80%;
+    }
+    #pet{
+        width: 15%;
+    }
+    .petpet{
+        position: relative;
+        bottom: 60px;
+        left: -100px;
+    }
+    #comment2{
+        position: relative;
+        left: 50px;
+    }
+    
+    /* third comment */
+    #ril{
+        width: 15%;
+    }
+    #comment3{
+        position: relative;
+        bottom: 100px;
+        color: whitesmoke;
+        width: 70%;
+        left: 60px;
+        bottom: 130px;
+    }
+    .moveunioncom3{
+        position: relative;
+        bottom: 110px;
+    }
+    .rilril{
+        position: relative;
+        bottom: 85px;
+        left: -100px;;
+    }
+    
+    }
+    
+    /* MOBILE QUERY FOR 600 STARTS */
+    @media (min-width: 600px){
+    
+    .sec1{
+        padding-left: 30px;
+    }
+    #why{
+        padding-left: 15px;
+    }
+    .mobilecarousel{
+        padding-left: 20px;
+    }
+    .movelm{
+        position: relative;
+        left: 250px;
+    }
+    .buysell{
+    width: 90%;
+        padding-left: 50px;
+    }
+    .movecolor{
+        position: relative;
+        left: 280px;
+    }
+    #signup{
+        width: 98%;
+        padding-left: 20px;
+    }
+    #choose{
+        width: 98%;
+        padding-left: 20px;
+    }
+    #buycoin{
+        width: 98%;
+        padding-left: 20px;
+    }
+    
+    .section3{
+        height: 1900px;
+    }
+    #ready4{
+        padding-left: 25px;
+    }
+    #gt4{
+    width: 200px;
+    }
+    .movegt4{
+        position: relative;
+        left: 200px;
+    }
+    #ag4{
+        margin-right: 20px;
+    }
+    
+             /* CUSTOMER REVIEW SECTION */
+             .cusreview{
+                height: 1050px;
+            }
+            /* first comment */
+            #union{
+                width: 60%;
+            }
+            #comment1{
+                position: relative;
+                width: 50%;
+                left: 150px;
+                bottom: 150px;
+            }
+            .josireti{
+                position: relative;
+                bottom: 85px;
+                left: -120px;
+            }
+            #jos{
+                width: 8%;
+            }
+            /* second comment */
+             #union2{
+                width: 60%;
+            }
+            #pet{
+                width: 8%;
+            }
+            .petpet{
+                position: relative;
+                bottom: 60px;
+                left: -120px;
+            }
+            #comment2{
+                position: relative;
+                left: 150px;
+                width: 50%;
+            }
+            
+            /* third comment */
+            #union3{
+                width: 60%;
+            }
+            #ril{
+                width: 8%;
+            }
+            #comment3{
+                position: relative;
+                left: 150px;
+                width: 50%;
+                bottom: 130px;
+            }
+            .rilril{
+                position: relative;
+                bottom: 85px;
+                left: -120px;;
+            }
+
+
+
+    }
+    
+    /* MOBILE QUERY FOR 768 STARTS */
+    @media (min-width: 768px){
+    .seccontent1{
+        width: 80%;
+    }
+    .easymode{
+    height: 450px;
+    }
+    .easymode p{
+        width: 90%;
+        padding-left: 60px;
+    }
+    .finfree{
+        height: 450px;
+    }
+    .finfree p{
+        width: 90%;
+        padding-left: 60px;
+    }
+    .inv{
+        height: 450px;
+    }
+    .inv p{
+        width: 90%;
+        padding-left: 60px;
+    }
+    .movelm{
+        position: relative;
+        left: 350px;
+    }
+    .movecolor{
+        position: relative;
+        left: 380px;
+    }
+    .buysell{
+        width: 80%;
+        padding-left: 170px;
+    }
+    
+    .freeacc{
+        padding-left: 50px;
+    }
+    .depo{
+        padding-left: 50px;
+    }
+    .bsc{
+        padding-left: 50px;
+    }
+    .section3{
+        height: 2100px;
+    }
+    .movegt4{
+        position: relative;
+        left: 300px;
+    }
+       /* CUSTOMER REVIEW SECTION */
+             .cusreview{
+                height: 1150px;
+            }
+            /* first comment */
+            #union{
+                width: 50%;
+            }
+            #comment1{
+                position: relative;
+                width: 40%;
+                left: 220px;
+                bottom: 150px;
+            }
+            .josireti{
+                position: relative;
+                bottom: 85px;
+                left: -120px;
+            }
+            #jos{
+                width: 8%;
+            }
+            /* second comment */
+             #union2{
+                width: 50%;
+            }
+            #pet{
+                width: 8%;
+            }
+            .petpet{
+                position: relative;
+                bottom: 60px;
+                left: -120px;
+            }
+            #comment2{
+                position: relative;
+                width: 40%;
+                left: 220px;
+            }
+            
+            /* third comment */
+            #union3{
+                width: 50%;
+            }
+            #ril{
+                width: 8%;
+            }
+            #comment3{
+                position: relative;
+                width: 40%;
+                left: 220px;
+                bottom: 130px;
+            }
+            .rilril{
+                position: relative;
+                bottom: 85px;
+                left: -120px;;
+            }
+    
+    }
+    
+    /* MOBILE QUERY FOR 800 STARTS */
+    @media (min-width: 800px){
+    
+    .depo{
+        padding-right: 50px;
+    }
+   /* CUSTOMER REVIEW SECTION */
+   .cusreview{
+    height: 1050px;
+}
+/* first comment */
+#union{
+    width: 40%;
+}
+#comment1{
+    position: relative;
+    width: 40%;
+    left: 240px;
+    bottom: 150px;
+}
+.josireti{
+    position: relative;
+    bottom: 85px;
+    left: -100px;
+}
+#jos{
+    width: 8%;
+}
+/* second comment */
+ #union2{
+    width: 40%;
+}
+#pet{
+    width: 8%;
+}
+.petpet{
+    position: relative;
+    bottom: 60px;
+    left: -100px;
+}
+#comment2{
+    position: relative;
+    width: 40%;
+    left: 240px;
+}
+
+/* third comment */
+#union3{
+    width: 40%;
+}
+#ril{
+    width: 8%;
+}
+#comment3{
+    position: relative;
+    width: 40%;
+    left: 240px;
+    bottom: 130px;
+}
+.rilril{
+    position: relative;
+    bottom: 85px;
+    left: -100px;;
+}
+    }
+    
+    /* MOBILE QUERY FOR 1025 STARTS */
+    @media (min-width: 1025px){
+    .footermobile{
+        display: none;
+    }
+    .footerdesk{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+        .section3{
+            height: 1600px;
+        }
+        .seccontent1{
+            width: 50%;
+        }
+    .datafetch{
+        display: flex;
+    }
+    .bit{
+        width: 210px;
+    }
+    #price{
+        padding-top: 10px;
+    }
+    .mobilecarousel{
+        display: none;
+    }
+    #why{
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .deskcarousel{
+       display: flex;
+    }
+    .finfree{
+        width: 80%;
+        height: 100%;
+    }
+    .movefinfree{
+        position: relative;
+        left: 35px
+    }
+    .easymode{
+        height: 100%;
+    }
+    .moveeasymode{
+        position: relative;
+        left: 30px;
+    }
+    .invd{
+        height: 100%;
+        background-color: #FFFFFF;
+        text-align: center;
+        align-items: center;
+        border-radius: 8px;
+    }
+    .moveinvd{
+        position: relative;
+        right: 30px
+    }
+    .easymode p{
+        width: auto;
+        position: relative;
+        right: 30px;
+    }
+    .finfree p{
+        width: auto;
+        position: relative;
+        right: 30px;
+    }
+    
+    .movelm{
+        position: relative;
+        left: 450px;
+        top: 30px;
+    }
+    
+    .buysell{
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    
+    /* first step */
+    .movecolor1{
+        position: relative;
+        right: 300px;
+        
+    }
+    .movecfree{
+        display: flex;
+        padding-top: 80px;
+    }
+    .movecfreeall{
+        display: flex;
+    }
+    .freesign{
+        text-align: left;
+        position: relative;
+        left: 50px;
+    }
+    #pic3{
+        width: 35%;
+        position: relative;
+        right: 20px;
+    }
+    #signup{
+        position: relative;
+        left: 30px;
+        width: 60%;
+    }
+    
+    /* second step */
+    .movecolor2{
+        position: relative;
+        right: 230px;
+    }
+    .movedepo{
+        display: flex;
+        padding-top: 80px;
+    }
+    .movedepoall{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .depochoose{
+        text-align: left;
+        position: relative;
+        left: 120px;
+    }
+    
+    #choose{
+        position: relative;
+        width: 60%;
+        left: 30px;
+    }
+    #pic1{
+        width: 35%;
+        position: relative;
+        left: 50px;
+    }
+    
+    /* third step */
+    .movecolor3{
+        position: relative;
+        right: 290px;
+    }
+    .movebsc{
+        display: flex;
+        padding-top: 80px;
+    }
+    .movebscall{
+        display: flex;
+    }
+    .bscbuycoin{
+        text-align: left;
+        position: relative;
+        left: 50px;
+    }
+    #buycoin{
+        position: relative;
+        left: 30px;
+        width: 60%;
+    }
+    
+    /* section4 starts */
+    #ready4{
+        padding-left: 100px;
+    }
+    .movegt4{
+        position: relative;
+        left: 450px;
+    }
+    .moveag4{
+        padding-left: 60px;
+    }
+    /* COMMENT STARTS */
+
+.cusreview{
+    background-color: #F2F2F2;
+    position: relative;
+    bottom: 50px;
+    overflow: hidden;
+    height: 400px;
+}
+#cr{
+    padding-bottom: 50px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 60px;
+}
+.unioncomment{
+    display: flex;
+}
+#union{
+    width: 70%;
+}
+#union2{
+    width: 70%;
+}
+#union3{
+    width: 70%;
+}
+#jos{
+    border-radius: 100%;
+    width: 12%;
+}
+#pet{
+    border-radius: 100%;
+    width: 12%;
+}
+#ril{
+    border-radius: 100%;
+    width: 12%;
+}
+#comment1{
+    position: relative;
+    width: 60%;
+    left: 70px;
+    bottom: 140px;
+}
+.josireti{
+    display: flex;
+    position: relative;
+    bottom: 110px;
+    left: 70px;
+}
+#iretinig{
+    width: 10%;
+    text-align: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+#comment2{
+    width: 55%;
+    position: relative;
+    left: 70px;
+    bottom: 135px;
+}
+.moveunioncom2{
+    position: relative;
+    bottom: 0px;
+}
+.petpet{
+    display: flex;
+    position: relative;
+    bottom: 85px;
+    left: 70px;
+}
+#petusa{
+    width: 10%;
+    text-align: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+#comment3{
+    width: 65%;
+    position: relative;
+    left: 55px;
+    bottom: 125px;
+}
+.moveunioncom3{
+    position: relative;
+    bottom: 0px;
+}
+.rilril{
+    display: flex;
+    position: relative;
+    bottom: 105px;
+    left: 65px;
+}
+#rilnig{
+    width: 10%;
+    text-align: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+    
+
+}
+    
+
+    /* MOBILE QUERY FOR 1285 STARTS */
+@media (min-width: 1285px){
+.sec1{
+    padding-left: 100px;
+}
+.datafetch{
+    width: 1518px;
+    padding-left: 50px;
+}
+.movelm{
+    position: relative;
+    left: 680px;
+}
+.movegt4{
+    position: relative;
+    left: 680px;
+}
+.section3{
+    height: 1900px;
+}
+/* COMMENT STARTS */
+
+.cusreview{
+    background-color: #F2F2F2;
+    position: relative;
+    bottom: 50px;
+overflow: hidden;
+}
+#cr{
+    padding-bottom: 50px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 60px;
+}
+.unioncomment{
+    display: flex;
+}
+#union{
+    width: 60%;
+}
+#union2{
+    width: 60%;
+}
+#union3{
+    width: 60%;
+}
+#jos{
+    border-radius: 100%;
+    width: 12%;
+}
+#pet{
+    border-radius: 100%;
+    width: 12%;
+}
+#ril{
+    border-radius: 100%;
+    width: 12%;
+}
+#comment1{
+    position: relative;
+    width: 60%;
+    left: 110px;
+    bottom: 140px;
+}
+.josireti{
+    display: flex;
+    position: relative;
+    bottom: 85px;
+    left: 130px;
+}
+#iretinig{
+    width: 10%;
+    text-align: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+#comment2{
+    width: 55%;
+    position: relative;
+    left: 110px;
+    bottom: 130px;
+}
+.petpet{
+    display: flex;
+    position: relative;
+    bottom: 60px;
+    left: 125px;
+}
+#petusa{
+    width: 10%;
+    text-align: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+#comment3{
+    width: 55%;
+    position: relative;
+    left: 110px;
+    bottom: 130px;
+}
+.rilril{
+    display: flex;
+    position: relative;
+    bottom: 85px;
+    left: 115px;
+}
+#rilnig{
+    width: 10%;
+    text-align: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+}

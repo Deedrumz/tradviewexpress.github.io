@@ -1,0 +1,133 @@
+/* MOBILE QUERY FOR 320 STARTS */
+@media (min-width: 320px){
+    .allverify{
+        background-color: rgb(98, 187, 214);
+        height: 550px;
+        width: 90%;
+        border-radius: 2%;
+        padding-top: 30px;
+        box-shadow: 0px 2px 3px #000000;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    .moveallverify{
+        padding-left: 30px;
+        position: relative;
+        bottom: 30px;
+    }
+    .allverify h2{
+        padding-top: 15px;
+        padding-bottom: 20px;
+    }
+.actlink{
+    text-align: center;
+    font-weight: 500;
+    font-size: small;
+    width: 90%;
+    padding-left: 25px;
+}
+.allactlink{
+    padding-top: 15px;
+}
+a{
+    text-decoration: none;
+    color: #7C20BF;
+}
+    #conv{
+        width: 80%;
+        border-radius: 8px;
+        height: 35px;
+        background-color: #7C20BF;
+        color: #FFFFFF;
+    }
+    .moveconv{
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+.noemail{
+    font-weight: 500;
+    font-size: small;
+    width: 90%;
+    padding-left: 25px;
+}
+.re{
+    color: #7C20BF;
+}
+.editem{
+    color: #7C20BF;
+}
+
+
+
+
+
+
+}
+
+/* MOBILE QUERY FOR 600 STARTS */
+@media (min-width: 600px){
+
+    .allverify{
+        width: 80%;
+    }
+    .moveallverify{
+        padding-left: 100px;
+        position: relative;
+    }
+.yai{
+    font-size: larger;
+}
+
+
+}
+
+/* MOBILE QUERY FOR 768 STARTS */
+@media (min-width: 768px){
+
+    .allverify{
+        width: 70%;
+    }
+    .moveallverify{
+        padding-left: 180px;
+        position: relative;
+    }
+
+}
+
+/* MOBILE QUERY FOR 1025 STARTS */
+@media (min-width: 1025px){
+
+    .allverify{
+        width: 70%;
+    }
+    .moveallverify{
+        padding-left: 300px;
+        position: relative;
+    }
+.actlink{
+    width: 90%;
+    padding-left: 60px;
+}
+.noemail{
+    padding-left: 60px;
+}
+}
+
+/* MOBILE QUERY FOR 1285 STARTS */
+@media (min-width: 1285px){
+
+    .allverify{
+        width: 50%;
+    }
+    .moveallverify{
+        padding-left: 500px;
+        position: relative;
+    }
+.actlink{
+    width: 90%;
+    padding-left: 60px;
+}
+.noemail{
+    padding-left: 60px;
+}
+}
